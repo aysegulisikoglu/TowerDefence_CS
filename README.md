@@ -12,6 +12,7 @@ Platform: Windows (Editor)
 
 
 Oynanış – Kontroller
+
 Tuş	        İşlev
 
 W A S D	        Oyuncu hareketi (top-down)
