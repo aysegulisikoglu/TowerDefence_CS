@@ -15,20 +15,20 @@ Oynanış – Kontroller
 
 Tuş	            İşlev
 
-W A S D	            Oyuncu hareketi (top-down)
+W A S D	    ----        Oyuncu hareketi (top-down)
 
-Otomatik           En yakındaki hedefe doğru otomatik atış (öne doğru koni + fallback)
+Otomatik       -----    En yakındaki hedefe doğru otomatik atış (öne doğru koni + fallback)
 
-1 / 2 / 3	          Silah/renk/pool değiştirme (Blue / Orange / Purple)
+1 / 2 / 3	     ------     Silah/renk/pool değiştirme (Blue / Orange / Purple)
 
-Tab		            Yakın dövüş (melee) pulse aç/kapa
+Tab		      ------      Yakın dövüş (melee) pulse aç/kapa
 
 
-N		            Bir sonraki dalgayı erken çağır
+N		    ------        Bir sonraki dalgayı erken çağır
 
-C		          Chaser düşmanlarını burst olarak spawnla(zaten otomatik geliyor c ile de gelebilir)
+C		    -------      Chaser düşmanlarını burst olarak spawnla(zaten otomatik geliyor c ile de gelebilir)
 
-UI		        Ekrandaki 0.6x / 1.0x / 1.8x hız butonları yalnızca düşmanları etkiler (oyuncuyu değil)
+UI		 ---------       Ekrandaki 0.6x / 1.0x / 1.8x hız butonları yalnızca düşmanları etkiler (oyuncuyu değil)
 
 Ana Özellikler
 Oyuncu:
